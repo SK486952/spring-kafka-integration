@@ -1,2 +1,2 @@
 # spring-kafka-integration
-Spring boot integrated with kafka
+Spring boot integration with kafka
